@@ -30,6 +30,9 @@ The most fun searching algorithm to build was the A* pathfinding algorithm. It's
 
 ![AStar](Gifs/A*.gif)
 
+
+The examples above are just scraping the surface of the possibilities of this program. I had an amazing time building it!
+
 # What I learned:
 
 BFS/DFS
