@@ -6,7 +6,7 @@ Pathfinding using BFS,DFS,GreedyBFS, and A*
 
 ![BFS](Gifs/BFS.gif)
 ![BFS2](Gifs/BFS2.gif)
-![AStar](Gifs/AStar.gif)
+![AStar](Gifs/A*.gif)
 
 # What I learned/practiced
 
